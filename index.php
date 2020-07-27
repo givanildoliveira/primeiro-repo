@@ -1,4 +1,3 @@
 <?php
 
-//PRIMEIRO PROJETO
-echo time();
+echo md5( time() );
